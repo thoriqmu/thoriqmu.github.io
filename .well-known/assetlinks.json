@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.pkmk.bravy",
+    "sha256_cert_fingerprints": ["E3:D3:29:A9:11:34:27:A4:46:1C:A2:AB:3D:47:90:6C:65:65:D4:42:8F:8A:D0:D8:26:0E:AF:57:41:6E:5B:85"]
+  }
+}]
